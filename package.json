@@ -1,0 +1,16 @@
+{
+  "name": "remember-folds",
+  "main": "./lib/remember-folds",
+  "version": "0.0.0",
+  "description": "Remembers and automatically re-folds folds in your text editors",
+  "keywords": [
+    "fold"
+  ],
+  "repository": "https://github.com/forivall/atom-remember-folds",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
