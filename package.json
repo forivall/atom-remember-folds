@@ -1,7 +1,7 @@
 {
   "name": "remember-folds",
   "main": "./lib/remember-folds",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Remembers and automatically re-folds folds in your text editors",
   "keywords": [
     "fold"
@@ -11,6 +11,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
